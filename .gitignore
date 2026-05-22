@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+identities/
+qr_codes/
+encrypted_notes/
+backup_codes/
+temp_inbox/
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
